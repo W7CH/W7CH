@@ -1,16 +1,44 @@
-### Hi there 👋
+![Hey there, I'm Wassim.](https://github.com/W7CH/W7CH/raw/main/header.gif)
 
-<!--
-**W7CH/W7CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &nbsp;About me
 
-Here are some ideas to get you started:
+🎓 &nbsp;I'm currently studying Data science for environment observation and perception at IMT Atlantique.\
+🌱 &nbsp;I'm on track with learning Artificial intelligence, MLOps, Mobile Development and Embedded systems.\
+😍 &nbsp;In my free time, I enjoy cycling, running and spending time with friends.\
+📄 &nbsp;I'm open to any feedbacks, suggestions and offers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## &nbsp;Languages and tools
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
+![TensorFlow](https://img.shields.io/badge/-Tensorflow-000?&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello)
+
+---
+
+## &nbsp;GitHub analytics
+
+<a href="https://github.com/W7CH/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=W7CH&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W7CH&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+NOTE: This does not indicate my skill level or language proficiency, it's a GitHub metric based only on the work uploaded here. 
+
+---
+
+## &nbsp;Links
+
+<a href="mailto:wchakroun14@gmail.com"><img src="https://img.shields.io/badge/-wchakroun14@gmail.com-000?&logo=Gmail"/></a>
+<a href="https://www.linkedin.com/in/wassim-chakroun/"><img src="https://img.shields.io/badge/-Wassim%20Chakroun-000?&logo=Linkedin"/></a>
+<a href="https://www.facebook.com/wess.chakroun"><img src="https://img.shields.io/badge/-@wess.chakroun-000?&logo=Facebook"/></a>
+
+It will be a pleasure to talk with you ❤!
