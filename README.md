@@ -2,10 +2,10 @@
 
 ## &nbsp;About me
 
-🎓 &nbsp;I'm currently studying Data science for environment observation and perception at IMT Atlantique.\
-🌱 &nbsp;I'm on track with learning Artificial intelligence, MLOps, Mobile Development and Embedded systems.\
+🎓 &nbsp;I'm currently studying « Data science - from data to decision-makers » at IMT Atlantique (previously « Observation and Perception of the Environment »).\
+🌱 &nbsp;I'm on track with learning Artificial intelligence, Data science, MLOps, and Embedded systems.\
 😍 &nbsp;In my free time, I enjoy cycling, running and spending time with friends.\
-📄 &nbsp;I'm open to any feedbacks, suggestions and offers!
+📄  &nbsp;I'm open to any feedbacks, suggestions and offers!
 
 ---
 
@@ -21,6 +21,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-000?&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
+![Optuna](https://img.shields.io/badge/-Optuna-000?&logo=optuna)
+![Qgis](https://img.shields.io/badge/-Qgis-000?&logo=qgis)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello)
@@ -39,6 +41,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's a GitH
 
 <a href="mailto:wchakroun14@gmail.com"><img src="https://img.shields.io/badge/-wchakroun14@gmail.com-000?&logo=Gmail"/></a>
 <a href="https://www.linkedin.com/in/wassim-chakroun/"><img src="https://img.shields.io/badge/-Wassim%20Chakroun-000?&logo=Linkedin"/></a>
-<a href="https://www.facebook.com/wess.chakroun"><img src="https://img.shields.io/badge/-@wess.chakroun-000?&logo=Facebook"/></a>
+<a href="https://www.facebook.com/wess.chakroun"><img src="https://img.shields.io/badge/-@Wassim%20Chakroun-000?&logo=Facebook"/></a>
 
 It will be a pleasure to talk with you ❤!
