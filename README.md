@@ -1,5 +1,7 @@
 ![Hey there, I'm Wassim.](https://github.com/W7CH/W7CH/raw/main/header.gif)
 
+---
+
 ## &nbsp;About me
 
 🏆 &nbsp;I'm part of the winning team of "Campus Brest-Morlaix" in the entrepreneurial challenge "Fabrik ta Pépite".\
@@ -54,3 +56,5 @@ NOTE: This does not indicate my skill level or language proficiency, it's a GitH
 <a href="https://www.facebook.com/wess.chakroun"><img src="https://img.shields.io/badge/-Wassim%20Chakroun-000?&logo=Facebook"/></a>
 
 It will be a pleasure to talk with you ❤!
+
+---
