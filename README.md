@@ -1,4 +1,4 @@
-![Hey there, I'm Wassim.](https://github.com/W7CH/W7CH/raw/main/header1.gif)
+![Hey there, I'm Wassim.](https://github.com/W7CH/W7CH/raw/main/header.gif)
 
 ## &nbsp;About me
 
