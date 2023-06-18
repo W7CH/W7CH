@@ -8,6 +8,15 @@
 😍 &nbsp;In my free time, I enjoy cycling, running and spending time with friends.\
 📄  &nbsp;I'm open to any feedbacks, suggestions and offers!
 
+<p align="center">
+  <a href="https://github.com/W7CH">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W7CH&theme=transparent" />
+  </a>
+  <a href="https://github.com/W7CH">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=W7CH&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+</p>
+
 ---
 
 ## &nbsp;Languages and tools
@@ -43,18 +52,5 @@ NOTE: This does not indicate my skill level or language proficiency, it's a GitH
 <a href="mailto:wchakroun14@gmail.com"><img src="https://img.shields.io/badge/-wchakroun14@gmail.com-000?&logo=Gmail"/></a>
 <a href="https://www.linkedin.com/in/wassim-chakroun/"><img src="https://img.shields.io/badge/-Wassim%20Chakroun-000?&logo=Linkedin"/></a>
 <a href="https://www.facebook.com/wess.chakroun"><img src="https://img.shields.io/badge/-Wassim%20Chakroun-000?&logo=Facebook"/></a>
-
----
-
-<details>
-<p align="center">
-  <a href="https://github.com/W7CH">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W7CH&theme=transparent" />
-  </a>
-  <a href="https://github.com/W7CH">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=W7CH&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-</p>
-</details>
 
 It will be a pleasure to talk with you ❤!
