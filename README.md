@@ -41,6 +41,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's a GitH
 
 <a href="mailto:wchakroun14@gmail.com"><img src="https://img.shields.io/badge/-wchakroun14@gmail.com-000?&logo=Gmail"/></a>
 <a href="https://www.linkedin.com/in/wassim-chakroun/"><img src="https://img.shields.io/badge/-Wassim%20Chakroun-000?&logo=Linkedin"/></a>
-<a href="https://www.facebook.com/wess.chakroun"><img src="https://img.shields.io/badge/-@Wassim%20Chakroun-000?&logo=Facebook"/></a>
+<a href="https://www.facebook.com/wess.chakroun"><img src="https://img.shields.io/badge/-Wassim%20Chakroun-000?&logo=Facebook"/></a>
 
 It will be a pleasure to talk with you ❤!
