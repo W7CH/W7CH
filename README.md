@@ -54,8 +54,8 @@
 
 <p>
    <a href="https://github.com/W7CH/">
-      <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=W7CH&theme=gruvbox&layout=compact&hide_border=true" alt="W7CH :: Top langs by repo"/>
-      <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=W7CH&theme=gruvbox&layout=compact&hide_border=true" alt="W7CH :: Top langs by commit" />
+      <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=W7CH&theme=gruvbox&layout=compact&hide_border=true" alt="W7CH :: Top langs by repo"/>
+      <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=W7CH&theme=gruvbox&layout=compact&hide_border=true" alt="W7CH :: Top langs by commit" />
     </a>
 </p>
 
