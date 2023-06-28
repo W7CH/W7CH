@@ -19,6 +19,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="github.com/W7CH" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=W7CH&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" />
+  </a>
+</p>
+
 ---
 
 ## &nbsp;Languages and tools
