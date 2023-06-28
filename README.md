@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/W7CH">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W7CH&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W7CH&theme=transparent&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/W7CH">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=W7CH&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=W7CH&hide_border=true&card_width=338&theme=transparent&include_all_commits=true&count_private=true" />
   </a>
 </p>
 
@@ -56,8 +56,8 @@
 
 <p align="center">
    <a href="https://github.com/W7CH/">
-      <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=W7CH&theme=graywhite&layout=compact&hide_border=true" alt="W7CH :: Top langs by repo"/>
-      <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=W7CH&theme=graywhite&layout=compact&hide_border=true" alt="W7CH :: Top langs by commit" />
+      <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=W7CH&theme=graywhite&layout=compact&hide_border=true&include_all_commits=true&count_private=true" alt="W7CH :: Top langs by repo"/>
+      <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=W7CH&theme=graywhite&layout=compact&hide_border=true&include_all_commits=true&count_private=true" alt="W7CH :: Top langs by commit" />
     </a>
 </p>
 
