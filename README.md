@@ -6,7 +6,7 @@
 
 🏆 &nbsp;I'm part of the winning team of "Campus Brest-Morlaix" in the entrepreneurial challenge "Fabrik ta Pépite".\
 🎓 &nbsp;I'm currently studying « Data science - from data to decision-makers » at IMT Atlantique (previously « Observation and Perception of the Environment »).\
-🌱 &nbsp;I'm on track with learning Artificial intelligence, Data science, MLOps, and Embedded systems.\
+🌱 &nbsp;I'm on track with exploring Artificial intelligence, Data science, LLMs, MLOps, and Embedded systems.\
 😍 &nbsp;In my free time, I enjoy cycling, running and spending time with friends.\
 📄  &nbsp;I'm open to any feedbacks, suggestions and offers!
 
