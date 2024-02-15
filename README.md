@@ -36,17 +36,18 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-000?&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
+![PyTorch](https://img.shields.io/badge/-Pytorch-000?&logo=pytorch)
 ![Optuna](https://img.shields.io/badge/-Optuna-000?&logo=optuna)
 ![Qgis](https://img.shields.io/badge/-Qgis-000?&logo=qgis)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello)
-![PyTorch](https://img.shields.io/badge/-Pytorch-000?&logo=pytorch)
 
 ---
 
