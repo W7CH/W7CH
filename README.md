@@ -46,6 +46,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello)
+![PyTorch](https://img.shields.io/badge/-Pytorch-000?&logo=pytorch)
 
 ---
 
