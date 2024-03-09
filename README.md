@@ -1,4 +1,4 @@
-![Hey there, I'm Wassim.](https://github.com/W7CH/W7CH/raw/main/header.gif)
+<img src="https://github.com/W7CH/W7CH/raw/main/header.gif" alt="Hey there, I'm Wassim." style="width:auto;height:auto;">
 
 ---
 
