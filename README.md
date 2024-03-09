@@ -1,4 +1,4 @@
-<img src="https://github.com/W7CH/W7CH/raw/main/header.gif" alt="Hey there, I'm Wassim." width="1224" height="220">
+<img src="https://github.com/W7CH/W7CH/raw/main/header.gif" alt="Hey there, I'm Wassim." width="1250" height="190">
 
 ---
 
