@@ -5,7 +5,7 @@
 ## &nbsp;About me
 
 👨🏻‍💻 &nbsp;I'm a fresh graduate as a Data Science Engineer from [IMT Atlantique](https://www.imt-atlantique.fr/fr).\
-🏆 &nbsp;I'm part of the winning team of "Campus Brest-Morlaix" in the entrepreneurial challenge "Fabrik ta Pépite".\
+🏆 &nbsp;I'm part of the winning team of "Campus Brest-Morlaix" in the entrepreneurial challenge [Fabrik ta Pépite](https://www.pepitebretagne.fr/fabrik-ta-pepite-3-mois-pour-exploser-ton-idee).\
 🌱 &nbsp;I'm on track with exploring Artificial intelligence, Data science, LLMs, MLOps, and Embedded systems.\
 😍 &nbsp;In my free time, I enjoy cycling, running and spending time with friends.\
 📄  &nbsp;I'm open to any feedbacks, suggestions and offers!
